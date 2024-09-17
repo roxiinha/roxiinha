@@ -11,12 +11,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm_Community-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-🔥 Meus Status:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roxiinha&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-📈 Visitas no meu GitHub:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=roxiinha.roxiinha)
-
 Vamos nos conectar:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/941636429056979005)
 
