@@ -1,7 +1,7 @@
 # Olá, Eu sou Roxiinha 👋
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=patheticfeelings&left_color=blue&right_color=lightgrey&left_text=Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=roxiinha&left_color=red&right_color=lightgrey&left_text=Views" />
 </div>
 
 ### Vamos nos conectar:
