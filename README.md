@@ -1,14 +1,13 @@
 # Olá, Eu sou Roxiinha 👋
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roxiinha&left_color=red&right_color=lightgrey&left_text=Views" />
-</div>
-
 ### Vamos nos conectar:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/941636429056979005)
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=roxiinha&show_icons=true&theme=radical)
+
+### 📈 Visitas no meu GitHub:
+![GitHub Views](https://komarev.com/ghpvc/?username=roxiinha&color=blue&style=for-the-badge)
 
 ### 🛠️ Ferramentas e Tecnologias:
 
