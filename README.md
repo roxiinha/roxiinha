@@ -1,5 +1,9 @@
 # Olá, Eu sou Roxiinha 👋
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=patheticfeelings&left_color=blue&right_color=lightgrey&left_text=Views" />
+</div>
+
 ### Vamos nos conectar:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/941636429056979005)
 
