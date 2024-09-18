@@ -4,8 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/941636429056979005)
 
 ### 📈 Visitas no meu GitHub:
-![GitHub Views](://visitor-badge.laobi.icu/badge?page_id=roxiinha&left_color=blue&right_color=lightgrey&left_text=Views" />
-</div>)
+![GitHub Views]<img src="https://visitor-badge.laobi.icu/badge?page_id=roxiinha&left_color=blue&right_color=lightgrey&left_text=Views" />
 
 ### 🛠️ Ferramentas e Tecnologias:
 
