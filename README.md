@@ -4,7 +4,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/941636429056979005)
 
 ### 📈 Visitas no meu GitHub:
-![GitHub Views](https://komarev.com/ghpvc/?username=roxiinha&color=blue&style=for-the-badge)
+![GitHub Views](://visitor-badge.laobi.icu/badge?page_id=roxiinha&left_color=blue&right_color=lightgrey&left_text=Views" />
+</div>)
 
 ### 🛠️ Ferramentas e Tecnologias:
 
