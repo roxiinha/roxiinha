@@ -20,8 +20,8 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm_Community-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![JavaFX Scene Builder](https://img.shields.io/badge/JavaFX_Scene_Builder-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=roxiinha&show_icons=true&theme=radical)
-
